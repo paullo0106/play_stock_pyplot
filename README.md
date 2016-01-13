@@ -11,3 +11,11 @@ As a placeholder for me to play financial data, pandas, and python plots
 ### Example
 
 ![Stock comparison](/stock_comparison.png?raw=true "IBM v.s. Google over the past year")
+
+### Script 2
+
+Draw heatmap via **seaborn** to get a sense of my hyper-parameter tuning on XGBoost model
+
+### Result
+
+![XGBoost hyperparmeter tuning ](/hp_tuning_heatmap.png?raw=true "")
